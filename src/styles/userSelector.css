@@ -1,0 +1,37 @@
+.user-selector {
+  background: #ffffff;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.user-selector select,
+.user-selector input {
+  width: 100%;
+  padding: 0.6rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.user-selector button {
+  background-color: #0984e3;
+  color: white;
+  padding: 0.6rem 1rem;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.user-selector button:hover {
+  background-color: #74b9ff;
+}
+
+.message {
+  margin-top: 1rem;
+  color: #00b894;
+  font-weight: 600;
+}

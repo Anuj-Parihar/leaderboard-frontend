@@ -1,0 +1,20 @@
+.claim-history {
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  margin-bottom: 2rem;
+}
+
+.claim-history ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.claim-history li {
+  margin-bottom: 0.75rem;
+  background-color: #f1f2f6;
+  padding: 0.8rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}

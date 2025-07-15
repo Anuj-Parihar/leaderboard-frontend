@@ -1,0 +1,23 @@
+/* General Layout */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f6fa;
+  color: #333;
+}
+
+.container {
+  max-width: 960px;
+  margin: auto;
+  padding: 1.5rem;
+}
+
+h1 {
+  text-align: center;
+  color: #2f3640;
+}
+
+h2 {
+  margin-bottom: 1rem;
+  color: #353b48;
+}
